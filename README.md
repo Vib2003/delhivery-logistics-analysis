@@ -30,8 +30,8 @@ To uncover patterns, inefficiencies, and insights from large-scale trip data —
 ## Analysis Performed
 
 ### 1. Average Delivery Time by Route Type
-- FTL: ~1308 mins (~22 hrs)
-- Carting: ~209 mins (~3.5 hrs)
+- FTL: ~1308 mins (22 hrs)
+- Carting: 209 mins (3.5 hrs)
 > Full Truck Load (FTL) trips take significantly longer than Carting.
 
 ---
@@ -46,7 +46,7 @@ To uncover patterns, inefficiencies, and insights from large-scale trip data —
 ### 3. OSRM vs. Actual Delivery Time
 - Expected (OSRM): 214 mins avg  
 - Actual: 418 mins avg  
-- Delay: ~204 mins avg
+- Delay: 204 mins avg
 > Deliveries are almost double the predicted time on average.
 
 ---
@@ -80,4 +80,4 @@ This analysis simulates a real-world business scenario and showcases the ability
 ## Contact
 
 Made with intent by Vibek Singha
-For: Data Analyst Role @ Incanus Technologies Pvt Ltd  
+For: Data Analyst Role   
